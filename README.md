@@ -124,7 +124,7 @@ rare_disease_rag/
 │   └── RareDisease_data.json
 ├── src/
 │   ├── data_collection.py
-│   ├── RAG_Pipeline.py
+│   ├── rag_Pipeline.py
 
 ```
 
